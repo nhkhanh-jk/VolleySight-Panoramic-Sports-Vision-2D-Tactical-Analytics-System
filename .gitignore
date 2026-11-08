@@ -1,0 +1,11 @@
+.projectmem/events.jsonl
+.projectmem/watch.pid
+.projectmem/watch.log
+.projectmem/structure.json
+CONTEXT.md
+AGENTS.md
+LEARNING_GUIDE.md
+plan.md
+PROJECT_MAP.md
+artifacts
+volleyball_data
