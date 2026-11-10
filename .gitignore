@@ -1,11 +1,27 @@
-.projectmem/events.jsonl
-.projectmem/watch.pid
-.projectmem/watch.log
-.projectmem/structure.json
+# Python & OS
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Agent & Local Indexes
+.projectmem/
+.codegraph/
 CONTEXT.md
 AGENTS.md
 LEARNING_GUIDE.md
 plan.md
 PROJECT_MAP.md
-artifacts
-volleyball_data
+
+# Raw Data & Heavy Binaries (keep local, do not push 100MB files to Git)
+volleyball_data/
+output.mp4
+yolo11s.pt
+colab/*.zip
+volleysight_results/
+
+# Ignore generated splits, backgrounds & heavy training checkpoints,
+# but KEEP homography.json and eval visuals/tables so GitHub README renders!
+artifacts/splits/
+artifacts/backgrounds/
+artifacts/runs/
+artifacts/eval/*.mp4

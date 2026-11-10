@@ -1,0 +1,112 @@
+{
+  "images": 1051,
+  "boxes": {
+    "Player": 4020,
+    "Referee": 776,
+    "Ball": 394
+  },
+  "empty_labels": [
+    "maJM7QoN7-2935.532_4",
+    "maJM7QoN7-2945.532_4"
+  ],
+  "per_video": {
+    "maJM7QoN7": {
+      "tiles": 86,
+      "boxes": {
+        "Player": 324,
+        "Referee": 62,
+        "Ball": 40
+      }
+    },
+    "maKMrQYAZ": {
+      "tiles": 160,
+      "boxes": {
+        "Player": 381,
+        "Referee": 178,
+        "Ball": 52
+      }
+    },
+    "maNen4zOD": {
+      "tiles": 83,
+      "boxes": {
+        "Player": 312,
+        "Referee": 43,
+        "Ball": 26
+      }
+    },
+    "maOeB7zdz": {
+      "tiles": 1,
+      "boxes": {
+        "Player": 2,
+        "Referee": 1,
+        "Ball": 1
+      }
+    },
+    "majXaA68z": {
+      "tiles": 126,
+      "boxes": {
+        "Player": 478,
+        "Referee": 76,
+        "Ball": 55
+      }
+    },
+    "mak0QV2pk": {
+      "tiles": 114,
+      "boxes": {
+        "Player": 426,
+        "Ball": 45,
+        "Referee": 72
+      }
+    },
+    "makZrJpo6": {
+      "tiles": 117,
+      "boxes": {
+        "Ball": 40,
+        "Player": 481,
+        "Referee": 68
+      }
+    },
+    "mam280GvM": {
+      "tiles": 139,
+      "boxes": {
+        "Player": 418,
+        "Referee": 121,
+        "Ball": 35
+      }
+    },
+    "man0Vjjw5": {
+      "tiles": 120,
+      "boxes": {
+        "Referee": 81,
+        "Player": 419,
+        "Ball": 35
+      }
+    },
+    "manyjMqPB": {
+      "tiles": 94,
+      "boxes": {
+        "Player": 743,
+        "Referee": 65,
+        "Ball": 62
+      }
+    },
+    "maoB9V01v": {
+      "tiles": 11,
+      "boxes": {
+        "Referee": 9,
+        "Player": 36,
+        "Ball": 3
+      }
+    }
+  },
+  "group_split": {
+    "train": 728,
+    "val": 209,
+    "test": 114
+  },
+  "random_split": {
+    "val": 210,
+    "test": 105,
+    "train": 736
+  }
+}
